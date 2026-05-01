@@ -1,0 +1,10 @@
+^C:\USERS\MUSAN\DOCUMENTS\PROJECT\QRCODE_DATA\BUILD\CMAKEFILES\2DBBBB6BE54DAC02353A2C4DD33A7207\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Musan/Documents/Project/QRcode_data -BC:/Users/Musan/Documents/Project/QRcode_data/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/Musan/Documents/Project/QRcode_data/build/QrCodeJpgSplitter.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

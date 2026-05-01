@@ -1,0 +1,5 @@
+C:/Users/Musan/Documents/Project/QRcode_data/build/CMakeFiles/qrcodegen.dir
+C:/Users/Musan/Documents/Project/QRcode_data/build/CMakeFiles/base64.dir
+C:/Users/Musan/Documents/Project/QRcode_data/build/CMakeFiles/app.dir
+C:/Users/Musan/Documents/Project/QRcode_data/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Musan/Documents/Project/QRcode_data/build/CMakeFiles/ZERO_CHECK.dir
